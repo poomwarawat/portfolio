@@ -1,0 +1,53 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@tinymce/tinymce-react": "^3.3.2",
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "bulma": "^0.8.0",
+    "cors": "^2.8.5",
+    "draft-js": "^0.11.3",
+    "express": "^4.17.1",
+    "filepond": "^4.7.4",
+    "filepond-plugin-file-validate-type": "^1.2.4",
+    "filepond-plugin-image-preview": "^4.5.0",
+    "firebase": "^7.5.2",
+    "fs": "0.0.1-security",
+    "gh-pages": "^2.2.0",
+    "jslint": "^0.12.1",
+    "public-ip": "^4.0.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-draft-wysiwyg": "^1.14.1",
+    "react-filepond": "^7.0.1",
+    "react-froala-wysiwyg": "^3.0.6",
+    "react-router": "^3.2.5",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.2.0",
+    "react-search-field": "^1.0.0",
+    "write-json-file": "^4.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+}

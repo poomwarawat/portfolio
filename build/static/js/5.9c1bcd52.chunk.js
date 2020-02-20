@@ -1,0 +1,2 @@
+(this["webpackJsonpmy-app"]=this["webpackJsonpmy-app"]||[]).push([[5],{100:function(a,t,e){a.exports=e.p+"static/media/cafe3.bb43d030.jpg"},102:function(a,t,e){"use strict";e.r(t);var c=e(0),n=e.n(c),p=e(100),i=e.n(p);t.default=function(){return n.a.createElement("div",null,n.a.createElement("img",{class:"card-img-top",src:i.a,alt:"Card image cap"}))}}}]);
+//# sourceMappingURL=5.9c1bcd52.chunk.js.map
